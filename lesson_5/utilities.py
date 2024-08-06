@@ -14,5 +14,3 @@ def calculate_average(numbers):
 
 def find_max(numbers):
     return max(numbers)
-
-

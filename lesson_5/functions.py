@@ -16,4 +16,3 @@ elif operation == '*':
     print(multiply(number1, number2))
 elif operation == '/':
     print(divide(number1, number2))
-
